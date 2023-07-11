@@ -1,5 +1,5 @@
 # nlp-ish
-ticket classifacation for ITSM solutions using NLP methods
+In this repository there are some studies and files for learning nlp and artificial intelligence.
 
 # motivation
 This project started as a computer engineering graduation thesis at Süleyman Demirel University.
