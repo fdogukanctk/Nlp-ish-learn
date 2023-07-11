@@ -1,0 +1,9 @@
+numpy
+spacy
+pandas
+matplotlib
+gensim
+spacyturk
+gensim_sum_ext
+sentencepiece
+json2html
